@@ -11,4 +11,6 @@
 5. Closing remarks
 
 # Documents
-1. 
+1. [Slides PDF](https://github.com/ai4ph-hrtp/causal_inference_2023/blob/main/Slides.pdf)
+2. [Slides Markdown](https://github.com/ai4ph-hrtp/causal_inference_2023/blob/main/Slides.Rmd)
+3. [Code for Workshop](https://github.com/ai4ph-hrtp/causal_inference_2023/blob/main/Codes.R)
